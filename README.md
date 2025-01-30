@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate full stack web designer and developer with a focus on creating high-performing, intuitive websites that help businesses grow. All coding projects are either build up from the ground or developed by other toools like wordpress.<br>
+I'm a  full stack web designer and developer with a focus on creating high-performing, intuitive websites that help businesses grow. All coding projects are either build up from the ground up  or developed by other toools like wordpress.<br>
 
 
 # 💻 Tech Stack:
