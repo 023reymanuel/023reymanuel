@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Mumo</h1>
 <h3 align="center">I build backend tools and automation systems that help developers and businesses move faster.</h3>
 
+- 🔭 I’m currently working on [Developer Workflow Automation Toolkit](Coming soon)
+
+- 📫 How to reach me **emumo211@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
