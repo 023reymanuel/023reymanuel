@@ -1,19 +1,6 @@
 # 💫 About Me:
 Writing code. Solving problems. That’s the nutshell.<br><br>
 
- 🚀 Proof of Humanity (PoH) Anti-Bot System (MVP)
-
-Currently working on a service to help websites distinguish real humans from bots using secure **WebAuthn/passkey biometric verification**. This MVP features:
-* An embeddable JavaScript widget for client websites.
-* A backend API (Go/Golang) for authoritative human verification checks.
-* A Next.js dashboard for businesses to register, obtain API keys, and manage their integration.
-
-**Check out the live Business Dashboard:** [https://poh-dashboard-gqns.vercel.app](https://poh-dashboard-gqns.vercel.app)
-
-This project aims to provide a user-friendly and more secure alternative to traditional CAPTCHAs
-
-
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1elreyEmanuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emumo211@gmail.com) 
 
