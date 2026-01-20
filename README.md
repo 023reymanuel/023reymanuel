@@ -1,7 +1,9 @@
 # 💫 About Me:
-Solving problems. That’s the nutshell.<br><br>
+Solving problems.<br><br>
 
-Currently Working on a web application for an Architectural Firm. 
+CEO of tropismlabs.com
+
+Currently building a SAAS to help contractors find laborors in Australia. 
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1elreyEmanuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emumo211@gmail.com) 
