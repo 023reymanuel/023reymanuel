@@ -1,8 +1,6 @@
 # 💫 About Me:
 Solving problems.<br><br>
 
-CEO of tropismlabs.com
-
 Currently building a SAAS to help contractors find laborors in Australia. 
 
 ## 🌐 Socials:
