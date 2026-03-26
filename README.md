@@ -1,7 +1,16 @@
 # 💫 About Me:
 Solving problems.<br><br>
 
-Currently building a SAAS to help contractors find laborors in Australia. 
+# Emmanuel — Cloud Engineer
+
+Currently building production Azure infrastructure 
+using Terraform and GitHub CI/CD.
+Computer Science graduate.
+
+## What I'm Working On
+- Cloud infrastructure projects based on real 
+  job requirements
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1elreyEmanuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emumo211@gmail.com) 
